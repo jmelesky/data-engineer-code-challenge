@@ -3,7 +3,7 @@ Code for the Working Families Data Engineer code challenge.
 
 ## Task 1A
 
-See changes and comments inline in [`ingest_mobilize_python.py`](ingest_mobilize_python.py)
+See changes and comments inline in [`ingest_mobilize_pipeline.py`](ingest_mobilize_pipeline.py)
 
 ## Task 1B
 

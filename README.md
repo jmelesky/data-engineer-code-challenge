@@ -19,6 +19,6 @@ See code for comments and discussion, as well as [task2](docs/task2.md).
 
 ## Tasks 2 & 3
 
-Located in `docs/`: [task2](docs/task2.md) and [task2](docs/task2.md).
+Located in `docs/`: [task2](docs/task2.md) and [task3](docs/task3.md).
 
 
